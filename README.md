@@ -1,5 +1,5 @@
 # ReadMe-File
-# 💫 About Me:
+# About Me:
 Hi, I’m Anjali Aggarwal! A Computer Science major with a minor in Mathematics at Texas Tech University and a member of the Honors College.<br><br>I’m passionate about software engineering and driven to build innovative, real-world solutions. My experience spans full-stack development, AI/ML integration, and scalable systems, where I enjoy transforming ideas into impactful applications.<br><br>Through internships, research, and hackathons, I’ve deepened my understanding of core computer science principles while refining my ability to solve complex problems and collaborate across teams. I’m especially interested in opportunities that combine AI, data-driven systems, and user-focused software engineering to create meaningful impact.<br><br>📩 Let’s connect — I’m always open to new opportunities and collaborations!
 
 
