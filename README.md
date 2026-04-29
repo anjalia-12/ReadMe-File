@@ -1,10 +1,10 @@
 ## About Me
 
-I’m an Honors Computer Science student at Texas Tech University with a strong interest in building efficient and scalable systems and solving complex problems through code. I’m especially interested in artificial intelligence and how it can be applied to create smarter and more adaptive technologies.
+Honors Computer Science student at Texas Tech University with a strong interest in AI and building efficient, scalable systems. I enjoy breaking down complex problems, designing solutions, and turning ideas into something functional and reliable, always thinking about performance, usability, and how systems evolve.
 
-I enjoy the process of building. I like breaking down problems, designing solutions, and turning ideas into something functional and reliable. I also think beyond implementation and focus on performance, usability, and how systems evolve. I enjoy thinking through problems from both a technical and product perspective.
+Currently exploring how AI can be applied to create smarter, more adaptive technologies, with hands-on experience in machine learning research and product management.
 
-I’m always looking to grow as an engineer and work on meaningful, real-world problems.
+Always learning and working on meaningful, real-world problems.
 
 📫 anjali12agg@gmail.com
 
