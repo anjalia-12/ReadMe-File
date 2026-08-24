@@ -2,7 +2,7 @@
 
 Honors Computer Science student at Texas Tech University interested in AI and building efficient, scalable systems. I enjoy breaking down complex problems, designing solutions, and turning ideas into functional, reliable products while considering performance, usability, and long-term maintainability.
 
-Currently exploring applications of AI through machine learning research and technical projects, with experience across engineering and product development.
+I’m especially interested in artificial intelligence and how it can be used to build more adaptive and impactful systems.
 
 Always learning, building, and looking for meaningful problems to solve.
 
